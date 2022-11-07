@@ -57,5 +57,5 @@ section#redes-sociais img {
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgb(0, 0, 0, 0.400);
     box-sizing: border-box;
-    transition: transform 0.3s, border 0.5s;
+    transition: transform 0.3s, border 0.2s;
 }
